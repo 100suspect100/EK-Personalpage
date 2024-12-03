@@ -1,0 +1,1 @@
+window.confirm("Press a button, It's just for the show and you won't kill anything!");
