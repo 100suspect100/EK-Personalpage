@@ -8,7 +8,7 @@
      <div class="container">
          <h1>Geheime Informationen</h1>
          <p>Vollständiger Name: Arne Lange</p>
-         <p>Adresse: PO.Box 2025, 24510 Neumünster</p>
+         <p>Adresse: Postfach: 2025, 24510 Neumünster</p>
      </div>
      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
