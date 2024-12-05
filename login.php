@@ -1,4 +1,4 @@
-<?php require_once('./assets/layout/header.php'); ?>
+<?php require_once'./assets/layout/header.php'; ?>
 
     <div class="container">
         <h1>Login</h1>
@@ -15,6 +15,6 @@
         </form>
     </div>
 
-    <?php require_once('./assets/layout/footer.php'); ?>
+    <?php require_once'./assets/layout/footer.php'; ?>
 </body>
 </html>
