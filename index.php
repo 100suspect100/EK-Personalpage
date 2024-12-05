@@ -5,7 +5,7 @@ if(isset($_POST['email']) && isset($_POST['password']))
 {
     $incoming_email = $_POST['email'];
     $incoming_password = $_POST['password'];
-    $instance = new Auth() ;
+    $instance = new Auth( email: ) ;
 }  
 ?>
 
@@ -15,7 +15,7 @@ if(isset($_POST['email']) && isset($_POST['password']))
         <p>Informatiker Winter 2024</p>
         <p>Name: <b>Lange, Arne</b></p>
         <p>Standort: <b>Coesfeld</b></p>
-        <form>
+        <form method post>
             <div class="form-group">
                 <label for="email">Mail (OHNE FUNKTION):</label>
                 <input type="email" class="form-control" id="email" placeholder="Bitte Mail angeben">
