@@ -2,7 +2,7 @@
 
     <div class="container">
         <h1>Zur verbotenen Kammer</h1>
-        <form>
+        <form method "post">
             <div class="form-group">
                 <label for="username">Benutzername (OHNE FUNKTION):</label>
                 <input type="text" class="form-control" id="username" placeholder="Ihr Benutzername">
