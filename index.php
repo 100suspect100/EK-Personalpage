@@ -1,4 +1,13 @@
-<?php require_once'./assets/layout/header.php'; ?>
+<?php 
+require_once'./assets/layout/header.php'; 
+require_once'./code/Auth.php';
+if(isset($_POST['email']) && isset($_POST['password']))
+{
+    $incoming_email = $_POST['email'];
+    $incoming_password = $_POST['password'];
+    $instance = new Auth() ;
+}  
+?>
 
     <div class="container">
         <h1>Willkommen auf meiner persönlichen Website!</h1>
