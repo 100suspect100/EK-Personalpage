@@ -8,11 +8,11 @@
         <p>Standort: <b>Coesfeld</b></p>
         <form>
             <div class="form-group">
-                <label for="email">Email:</label>
+                <label for="email">Mail (OHNE FUNKTION):</label>
                 <input type="email" class="form-control" id="email" placeholder="Bitte Mail angeben">
             </div>
             <div class="form-group">
-                <label for="message">Nachricht:</label>
+                <label for="message">Nachricht (OHNE FUNKTION):</label>
                 <textarea class="form-control" id="message" rows="3" placeholder="Ihre Nachricht:"></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Kontaktiere mich</button>

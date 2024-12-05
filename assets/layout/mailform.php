@@ -1,7 +1,7 @@
 <form class="form border p-5">
     <h2>Please login</h2>
 
-    <input class="form form-control mb-5" type="email" name="username" required
+    <input class="form form-control mb-5" type="Mail OHNE FUNKTION" name="username" required
         placeholder="yourmail" />
 
     <input class="form form-control mb-5" type="password" name="password" required placeholder="pwd" />

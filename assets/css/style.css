@@ -17,6 +17,7 @@ nav {
   display: flex;
 }
 nav ul {
+  background-color: rgb(36, 105, 82);
   display: flex;
   padding: 5px;
   list-style: none;

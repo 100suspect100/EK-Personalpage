@@ -31,7 +31,7 @@
                     </li>
                                     </ul>
                 <form class="d-flex" role="search">
-                    <input class="form-control me-2" type="search" placeholder="Eingabe" aria-label="Search">
+                    <input class="form-control me-2" type="search" placeholder="Eingabe ohne Funktion!" aria-label="Search">
                     <button class="btn btn-outline-success" type="submit">Suchen</button>
                 </form>
             </div>
