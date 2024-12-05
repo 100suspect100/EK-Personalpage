@@ -5,8 +5,8 @@ if(isset($_POST['email']) && isset($_POST['password']))
 {
     $incoming_email = $_POST['email'];
     $incoming_password = $_POST['password'];
-    $instance = new Auth( email: ) ;
-}  
+    $instance = new Auth($incoming_email,$incoming_password);
+}
 ?>
 
     <div class="container">
